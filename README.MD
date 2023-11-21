@@ -1,1 +1,1 @@
-# <center> ML handbook
+# <center> Machine Learning handbook
