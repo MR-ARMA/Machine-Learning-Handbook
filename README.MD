@@ -5,6 +5,7 @@ Welcome to the machine learning training repository! This repository is designed
 <center>
 <img src="images/ML_Community.jpg" width="800" height="800">
 </center>
+# <center> ![picture](images/ML_Community.jpg)
 
 
 ## Goals
