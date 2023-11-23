@@ -2,6 +2,10 @@
 
 Welcome to the machine learning training repository! This repository is designed to practice and learn basic concepts and methods in machine learning, which is taken from the writings of Professor Martha White. Interesting content is included here from various sources, but currently the main references are "Guide to Machine Learning" and "Basics of Machine Learning".
 
+<center>
+<img src="images/ML_Community.jpg" width="500" height="500">
+</center>
+
 ## Goals
 
 1. **Practical Demonstration and Visualization**: The goal is to demonstrate the material learned practically and provide visualization to increase understanding. Converting mathematical concepts to code should be accessible and understandable. It includes simple and practical code examples to facilitate the learning experience.
