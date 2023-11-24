@@ -18,7 +18,7 @@ Welcome to the machine learning training repository! This repository is designed
 
 The motivation to summarize and convert content into code comes from our own experiences. Most of us, when we start machine learning, understanding the transfer of mathematical theories to practical coding seems challenging and time-consuming. It's supposed to be here by providing simple code examples that make learning less difficult, and cool examples that visualize the data distribution process and enable others to jump into the exciting aspects of machine learning early, while also learning the content behind it. they understand
 
-The motivation to translate the content into Farsi is rooted in the sense of responsibility to share the exciting and recent developments in the field of machine learning. Language should not be a barrier to acquiring knowledge. Machine learning is a fascinating field, and we believe that language should not limit one's ability to stay up-to-date on today's science and technology and engage with fascinating problems.
+The motivation to translate the content into persian is rooted in the sense of responsibility to share the exciting and recent developments in the field of machine learning. Language should not be a barrier to acquiring knowledge. Machine learning is a fascinating field, and we believe that language should not limit one's ability to stay up-to-date on today's science and technology and engage with fascinating problems.
 
 ## Community participation
 
