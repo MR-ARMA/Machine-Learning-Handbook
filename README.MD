@@ -1,6 +1,6 @@
 # Machine learning training repository
 
-Welcome to the machine learning training repository! This repository is designed to practice and learn basic concepts and methods in machine learning, which is taken from the writings of Professor ***Martha White*** and Professor ***Predrag Radivojac***. Interesting content is included here from various sources, but currently the main references are `Machine Learning Handbook` and `Basic of Machine Learning`.
+Welcome to the machine learning training repository! This repository is designed to practice and learn basic concepts and methods in machine learning, currently derived from the writings of Professor ***Martha White*** and Professor ***Predrag Radivojac***. Interesting content is included here from various sources, but currently the main references are `Machine Learning Handbook` and `Basic of Machine Learning`.
 
 
 # <center> ![picture](images/ML_Community.jpg)
