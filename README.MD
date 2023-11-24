@@ -12,7 +12,7 @@ Welcome to the machine learning training repository! This repository is designed
 
 1. **Practical Demonstration and Visualization**: The goal is to demonstrate the material learned practically and provide visualization to increase understanding. Converting mathematical concepts to code should be accessible and understandable. It includes simple and practical code examples to facilitate the learning experience.
 
-2. **Translation and explanation**: Another goal is to translate and explain the contents and references in Persian language. The content presented will be available in both languages and we plan to continue translating as we progress.
+2. **Translation and explanation to persian**: Another goal is to translate and explain the contents and references in Persian language. The content presented will be available in both languages and we plan to continue translating as we progress.
 
 ## Motivation
 
